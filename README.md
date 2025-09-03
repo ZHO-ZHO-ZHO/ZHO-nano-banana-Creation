@@ -9,6 +9,13 @@
 
 我的 nano-banana 创意玩法大合集！  持续更新中！
 
+我的 nano-banana 原创玩法已经更新到 46 个了！Prompt 持续开源中！！！
+
+注意标明出处哦！
+
+完整贴：https://x.com/ZHO_ZHO_ZHO/status/1961073677681983926
+
+
 
 
 
