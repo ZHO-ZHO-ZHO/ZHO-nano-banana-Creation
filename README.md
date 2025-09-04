@@ -24,12 +24,12 @@
 - [2️⃣ 名人/指定人物（上传图片）超写实照片级生成](#2️⃣-名人指定人物上传图片超写实照片级生成)
 - [3️⃣ 指定人物短视频：人像特征保持 + 切换视角 + veo3 首尾帧](#3️⃣-指定人物短视频人像特征保持--切换视角--veo3-首尾帧)
 - [4️⃣ 建筑图转模型/建模](#4️⃣-建筑图转模型建模)
-- [5️⃣ 连续编辑 + 物体组合 + 背景设计](#5️⃣-连续编辑---物体组合---背景设计)
+- [5️⃣ 连续编辑 + 物体组合 + 背景设计](#5️⃣-连续编辑--物体组合--背景设计)
 - [6️⃣ 高清修复](#6️⃣-高清修复)
 - [7️⃣ 物体组合/版本对比](#7️⃣-物体组合版本对比)
 - [8️⃣ 商品广告短片：指定人物 + 商品](#8️⃣-商品广告短片指定人物--商品)
 - [9️⃣ 人群中分离指定模糊人物 + 高清生成](#9️⃣-人群中分离指定模糊人物--高清生成)
-- [🔟 图转线稿 + 色卡上色](#🔟-图转线稿--色卡上色)
+- [1️⃣0️⃣ 图转线稿 + 色卡上色](#1️⃣0️⃣-图转线稿--色卡上色)
 - [1️⃣1️⃣ 一句话生成一套角色设定/故事书](#1️⃣1️⃣-一句话生成一套角色设定故事书)
 - [1️⃣2️⃣ 虚实结合/跨次元：插画人物探店](#1️⃣2️⃣-虚实结合跨次元插画人物探店)
 - [1️⃣3️⃣ 指定人物 + 设计 实景体验/效果图](#1️⃣3️⃣-指定人物--设计-实景体验效果图)
@@ -140,7 +140,7 @@ change the Camera anglo a high-angled selfie perspective looking down at the wom
 
 
 
-## 4️⃣  建筑图转模型/建模
+## 4️⃣ 建筑图转模型/建模
 
 
 <img width="1017" height="1340" alt="Group 184-2" src="https://github.com/user-attachments/assets/f78a58fe-87c3-4473-b929-9c1db31b205e" />
@@ -157,7 +157,7 @@ convert this photo into a architecture model. Behind the model, there should be 
 
 
 
-## 5️⃣  连续编辑 + 物体组合 + 背景设计
+## 5️⃣ 连续编辑 + 物体组合 + 背景设计
 
 
 <img width="1150" height="862" alt="未命名作品 31" src="https://github.com/user-attachments/assets/8ce14b2a-69eb-45e5-8a61-3a78ba42c840" />
@@ -185,7 +185,7 @@ Prompt：
 
 
 
-## 6️⃣  高清修复
+## 6️⃣ 高清修复
 
 
 <img width="900" height="643" alt="image" src="https://github.com/user-attachments/assets/e05b8092-b2ce-4f20-b9d1-a40a28c1da6f" />
@@ -202,7 +202,7 @@ Enhance this image to high resolution
 
 
 
-## 7️⃣  物体组合/版本对比
+## 7️⃣ 物体组合/版本对比
 
 <img width="900" height="738" alt="image" src="https://github.com/user-attachments/assets/746a09a7-fe29-40f9-8d02-815e6424f310" />
 
@@ -218,7 +218,7 @@ Prompt：
 
 
 
-## 8️⃣  商品广告短片：指定人物 + 商品
+## 8️⃣ 商品广告短片：指定人物 + 商品
 
 
 
@@ -242,7 +242,7 @@ Video Prompt：
 
 
 
-## 9️⃣  人群中分离指定模糊人物 + 高清生成：
+## 9️⃣ 人群中分离指定模糊人物 + 高清生成：
 
 
 <img width="900" height="729" alt="image" src="https://github.com/user-attachments/assets/5e9afd1c-82ca-4e70-a90d-23bed8794531" />
@@ -259,7 +259,7 @@ Separate the person inside the green box and turn it into a high-definition sing
 
 
 
-## 🔟  图转线稿 + 色卡上色
+## 1️⃣0️⃣ 图转线稿 + 色卡上色
 
 
 <img width="933" height="1200" alt="image" src="https://github.com/user-attachments/assets/6052b039-48cd-41e7-afa8-71a297a33b1f" />
@@ -282,7 +282,7 @@ Prompt：
 
 
 
-## 1️⃣1️⃣  一句话生成一套角色设定/故事书
+## 1️⃣1️⃣ 一句话生成一套角色设定/故事书
 
 
 <img width="900" height="771" alt="image" src="https://github.com/user-attachments/assets/0b1e156d-c461-42cd-9c11-a23643475993" />
@@ -309,7 +309,7 @@ Prompt：
 
 
 
-## 1️⃣2️⃣  虚实结合/跨次元：插画人物探店
+## 1️⃣2️⃣ 虚实结合/跨次元：插画人物探店
 
 
 <img width="900" height="528" alt="image" src="https://github.com/user-attachments/assets/fa56c1ed-7b9c-4092-8c23-26ac18c65014" />
@@ -326,7 +326,7 @@ Prompt：
 
 
 
-## 1️⃣3️⃣  指定人物 + 设计 实景体验/效果图
+## 1️⃣3️⃣ 指定人物 + 设计 实景体验/效果图
 
 
 <img width="900" height="714" alt="image" src="https://github.com/user-attachments/assets/7450b369-c961-423e-9121-b6beb881b3c6" />
@@ -343,7 +343,7 @@ Prompt：
 
 
 
-## 1️⃣4️⃣  精准替换视频人物
+## 1️⃣4️⃣ 精准替换视频人物
 
 
 https://github.com/user-attachments/assets/18299b01-efb6-43fb-8b44-a6c2be0464b4
@@ -367,7 +367,7 @@ Video Prompt：
 
 
 
-## 1️⃣5️⃣  动漫转真人（接近 1:1 还原）
+## 1️⃣5️⃣ 动漫转真人（接近 1:1 还原）
 
 
 <img width="900" height="618" alt="image" src="https://github.com/user-attachments/assets/6d6f82ff-f18f-40f8-b16d-b6d2c03bae8e" />
@@ -384,7 +384,7 @@ Generate a highly detailed photo of a girl cosplaying this illustration, at Comi
 
 
 
-## 1️⃣6️⃣  高质量摄影：指定人物 + 高质量姿势参考
+## 1️⃣6️⃣ 高质量摄影：指定人物 + 高质量姿势参考
 
 
 <img width="900" height="858" alt="image" src="https://github.com/user-attachments/assets/c1a845af-88d4-4510-80e8-6f19c6407718" />
@@ -401,7 +401,7 @@ Prompt：
 
 
 
-## 1️⃣7️⃣  图片转人偶玩具
+## 1️⃣7️⃣ 图片转人偶玩具
 
 
 <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/15374566-a3b1-42ea-b5f5-54480cee523f" />
@@ -422,7 +422,7 @@ Visualize this in a highly realistic way with attention to fine details.
 
 
 
-## 1️⃣8️⃣  图片转 Funko Pop 公仔
+## 1️⃣8️⃣ 图片转 Funko Pop 公仔
 
 
 <img width="900" height="776" alt="image" src="https://github.com/user-attachments/assets/0ffe62be-0e7a-46d2-9f75-b047cca5fd76" />
@@ -439,7 +439,7 @@ Transform the person in the photo into the style of a Funko Pop figure packaging
 
 
 
-## 1️⃣9️⃣  图片转乐高
+## 1️⃣9️⃣ 图片转乐高
 
 
 <img width="900" height="828" alt="image" src="https://github.com/user-attachments/assets/db4dce7e-f3df-4001-b792-909d3f862639" />
@@ -456,7 +456,7 @@ Transform the person in the photo into the style of a LEGO minifigure packaging 
 
 
 
-## 2️⃣0️⃣  图片转针织玩偶
+## 2️⃣0️⃣ 图片转针织玩偶
 
 
 <img width="794" height="900" alt="image" src="https://github.com/user-attachments/assets/55e1b0be-1edd-4f33-9867-cc6d20723059" />
@@ -473,7 +473,7 @@ A close-up, professionally composed photograph showing a handmade crocheted yarn
 
 
 
-## 2️⃣1️⃣  图片转芭比娃娃
+## 2️⃣1️⃣ 图片转芭比娃娃
 
 
 <img width="680" height="510" alt="image" src="https://github.com/user-attachments/assets/b95825f7-e9a4-4406-9fb6-093d8da1c000" />
@@ -490,7 +490,7 @@ Transform the person in the photo into the style of a Barbie doll packaging box,
 
 
 
-## 2️⃣2️⃣  万物变高达
+## 2️⃣2️⃣ 万物变高达
 
 
 <img width="612" height="680" alt="image" src="https://github.com/user-attachments/assets/a0a2f0af-26d0-445c-ba9d-f2481812e09d" />
@@ -507,7 +507,7 @@ Transform the person in the photo into the style of a Gundam model kit packaging
 
 
 
-## 2️⃣3️⃣  赛博生娃？！两张人脸生成孩子脸
+## 2️⃣3️⃣ 赛博生娃？！两张人脸生成孩子脸
 
 
 <img width="902" height="1200" alt="image" src="https://github.com/user-attachments/assets/f4d68a17-9d54-4cbe-b8b0-d4917463a3fc" />
@@ -524,7 +524,7 @@ Prompt：
 
 
 
-## 2️⃣4️⃣  产品设计图转真实效果/渲染
+## 2️⃣4️⃣ 产品设计图转真实效果/渲染
 
 
 <img width="900" height="664" alt="image" src="https://github.com/user-attachments/assets/783be09e-e3a5-4afb-874d-0216fb3709ac" />
@@ -541,7 +541,7 @@ turn this illustration of a perfume into a realistic version, Frosted glass bott
 
 
 
-## 2️⃣5️⃣  随手拍秒变专业摄影大片？！Nano-Banana 拯救你的废片！
+## 2️⃣5️⃣ 随手拍秒变专业摄影大片？！Nano-Banana 拯救你的废片！
 
 
 <img width="900" height="644" alt="image" src="https://github.com/user-attachments/assets/620542d4-f645-4a70-af13-53557b77b806" />
@@ -558,7 +558,7 @@ Transform the person in the photo into highly stylized ultra-realistic portrait,
 
 
 
-## 2️⃣6️⃣  光影参考
+## 2️⃣6️⃣ 光影参考
 
 
 <img width="900" height="788" alt="image" src="https://github.com/user-attachments/assets/e9536f56-1b62-4fc2-b375-9c97544b0171" />
@@ -575,7 +575,7 @@ Prompt：
 
 
 
-## 2️⃣7️⃣  使用光影人偶做打光参考
+## 2️⃣7️⃣ 使用光影人偶做打光参考
 
 
 <img width="900" height="808" alt="image" src="https://github.com/user-attachments/assets/4848153b-72b4-4011-93eb-0c539620639e" />
@@ -593,7 +593,7 @@ Prompt：
 
 
 
-## 2️⃣8️⃣  生成绘画/渲染过程四宫格
+## 2️⃣8️⃣ 生成绘画/渲染过程四宫格
 
 
 <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/9559b463-d192-4f6f-9b1d-889e8cbef73b" />
@@ -610,7 +610,7 @@ Prompt：
 
 
 
-## 2️⃣9️⃣  一句话 照片变插画 还附带绘画过程
+## 2️⃣9️⃣ 一句话 照片变插画 还附带绘画过程
 
 
 <img width="900" height="788" alt="image" src="https://github.com/user-attachments/assets/29ac3be3-dce9-45e2-b9d7-329d0f675064" />
@@ -627,7 +627,7 @@ Prompt：
 
 
 
-## 3️⃣0️⃣  脸型参考/控制，秒变卡通形象
+## 3️⃣0️⃣ 脸型参考/控制，秒变卡通形象
 
 
 <img width="900" height="744" alt="image" src="https://github.com/user-attachments/assets/737bc511-d0d2-42bb-899c-c837b5219174" />
@@ -644,7 +644,7 @@ Prompt：
 
 
 
-## 3️⃣1️⃣  一句咒语任何风格变写实
+## 3️⃣1️⃣ 一句咒语任何风格变写实
 
 
 <img width="900" height="897" alt="image" src="https://github.com/user-attachments/assets/c96bf7dd-ad3c-44a3-a399-9a6e496a053f" />
@@ -671,7 +671,7 @@ turn this illustration into realistic version
 
 
 
-## 3️⃣2️⃣  曲面屏贴图
+## 3️⃣2️⃣ 曲面屏贴图
 
 
 <img width="898" height="1200" alt="image" src="https://github.com/user-attachments/assets/1d3f44a8-6a39-46fa-a700-f4ec73fc67aa" />
@@ -688,7 +688,7 @@ Prompt：
 
 
 
-## 3️⃣3️⃣  直接为图片中的曲面大屏生成 指定的 “裸眼 3D” 内容
+## 3️⃣3️⃣ 直接为图片中的曲面大屏生成 指定的 “裸眼 3D” 内容
 
 
 <img width="899" height="1200" alt="image" src="https://github.com/user-attachments/assets/7f244b25-02e5-479e-9f5f-2f86a449e3de" />
@@ -705,7 +705,7 @@ Prompt：
 
 
 
-## 3️⃣4️⃣  任意图片（明星/动漫）变挂件挂在自己/女朋友包包上！
+## 3️⃣4️⃣ 任意图片（明星/动漫）变挂件挂在自己/女朋友包包上！
 
 
 <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/ad6ff7e4-6e44-4a8c-9840-6661575ef740" />
@@ -728,7 +728,7 @@ Prompt：
 
 
 
-## 3️⃣5️⃣  叠加指定 材质质感/效果
+## 3️⃣5️⃣ 叠加指定 材质质感/效果
 
 <img width="900" height="788" alt="image" src="https://github.com/user-attachments/assets/c844cba2-8b34-4c4f-9aff-22c43910cc2b" />
 
@@ -748,7 +748,7 @@ Prompt：
 
 
 
-## 3️⃣6️⃣  照片变娃娃
+## 3️⃣6️⃣ 照片变娃娃
 
 
 <img width="900" height="788" alt="image" src="https://github.com/user-attachments/assets/c30321fd-5610-474c-a0eb-e2ca55a9fb79" />
@@ -765,7 +765,7 @@ Prompt：
 
 
 
-## 3️⃣7️⃣  产品包装贴合
+## 3️⃣7️⃣ 产品包装贴合
 
 
 <img width="900" height="645" alt="image" src="https://github.com/user-attachments/assets/6022f5aa-6ec0-4380-91c7-aa2412dfd70f" />
@@ -782,7 +782,7 @@ Prompt：
 
 
 
-## 3️⃣8️⃣  把指定图片贴在大阶梯上
+## 3️⃣8️⃣ 把指定图片贴在大阶梯上
 
 
 <img width="798" height="900" alt="image" src="https://github.com/user-attachments/assets/e56fb2dd-6327-42f6-a810-71f506acae26" />
@@ -799,7 +799,7 @@ Prompt：
 
 
 
-## 3️⃣9️⃣  虚拟试妆？！化指定妆面
+## 3️⃣9️⃣ 虚拟试妆？！化指定妆面
 
 
 <img width="900" height="724" alt="image" src="https://github.com/user-attachments/assets/84734fcb-7bf8-4447-81d9-996e99c662db" />
@@ -816,7 +816,7 @@ Prompt：
 
 
 
-## 4️⃣0️⃣  妆面分析 + 优化建议！
+## 4️⃣0️⃣ 妆面分析 + 优化建议！
 
 
 <img width="900" height="788" alt="image" src="https://github.com/user-attachments/assets/8194cd70-2f4a-4825-a662-a74d886cb5bd" />
@@ -833,7 +833,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 
 
-## 4️⃣1️⃣  工业设计 手绘 秒变 实景效果
+## 4️⃣1️⃣ 工业设计 手绘 秒变 实景效果
 
 
 
@@ -852,7 +852,7 @@ turn this photo into realistic version, with light brown leather, put into a Min
 
 
 
-## 4️⃣2️⃣  工业设计套图：马克笔、水彩、分析图、渲染图
+## 4️⃣2️⃣ 工业设计套图：马克笔、水彩、分析图、渲染图
 
 
 <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/bdb4ef91-225f-474b-a924-4754153df404" />
@@ -869,7 +869,7 @@ turn this photo into 马克笔画/水彩画/diagram
 
 
 
-## 4️⃣3️⃣  表情准确参考！动漫、真人都没问题！
+## 4️⃣3️⃣ 表情准确参考！动漫、真人都没问题！
 
 
 <img width="679" height="523" alt="image" src="https://github.com/user-attachments/assets/3710652d-6adc-4837-bb4b-02ae3d360a8e" />
@@ -889,7 +889,7 @@ Prompt：
 
 
 
-## 4️⃣4️⃣  动物拟人表情
+## 4️⃣4️⃣ 动物拟人表情
 
 
 <img width="639" height="680" alt="image" src="https://github.com/user-attachments/assets/9981b0d9-abe9-4ad3-9ba6-114756bd65bf" />
@@ -906,7 +906,7 @@ Prompt：
 
 
 
-## 4️⃣5️⃣  绝美卡片设计
+## 4️⃣5️⃣ 绝美卡片设计
 
 
 <img width="659" height="680" alt="image" src="https://github.com/user-attachments/assets/fbd5739f-0082-4af0-acfd-0811d16be22e" />
@@ -930,7 +930,7 @@ Telephone：82732691
 
 
 
-## 4️⃣6️⃣  多人物插画集
+## 4️⃣6️⃣ 多人物插画集
 
 
 <img width="680" height="575" alt="image" src="https://github.com/user-attachments/assets/176078dd-04f6-421b-b7f9-4507fb44b2c2" />
