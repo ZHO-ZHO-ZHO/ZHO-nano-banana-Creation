@@ -68,8 +68,19 @@
 - [4️⃣6️⃣ 多人物插画集](#4️⃣6️⃣-多人物插画集)
 
 
+# 在线体验（开源）：Nano Bananary｜香蕉超市
 
-# 玩法
+<img width="1251" height="2051" alt="Group 336" src="https://github.com/user-attachments/assets/51a70ae5-9f94-4dc3-88ca-8ef688d1ee5c" />
+
+
+所有玩法已陆续上线我自己的开源 APP：Nano Bananary｜香蕉超市，无需提示词，丝滑衔接
+
+
+一键直达：[Nano Bananary｜香蕉超市](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary)
+
+
+
+# 玩法 + 提示词
 
 ## 1️⃣ 出圈/火的用法：图片变手办/手办视频
 
@@ -1023,6 +1034,11 @@ Prompt：
 
 
 ## 更新日志
+
+- 20250906
+
+  新增 自己的 在线体验（开源）：Nano Bananary｜香蕉超市
+
 
 - 20250904
 
