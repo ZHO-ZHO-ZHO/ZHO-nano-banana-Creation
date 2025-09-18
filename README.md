@@ -5,7 +5,7 @@
    
 # Nano-Banana Creation ZHO
    
-我的 Nano-Banana 创意玩法大合集 | [完整帖](https://x.com/ZHO_ZHO_ZHO/status/1961073677681983926) | My Nano-Banana Creation collection
+我的 Nano-Banana 原创玩法大合集 | [完整帖](https://x.com/ZHO_ZHO_ZHO/status/1961073677681983926) | My Nano-Banana Creation collection
 
 ！！！注意标明出处哦！！！
 
@@ -112,7 +112,7 @@ NanoBanana + Veo 的开源工作流创意平台，工作流 + 窗口 双模式�
 
 
 
-# （3）玩法 + 提示词
+# （3）原创玩法 + 提示词
 
 ## 1️⃣ 出圈/火的用法：图片变手办/手办视频
 
